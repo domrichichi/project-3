@@ -5,3 +5,16 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+/* Colours
+Dark Blue- #143776
+Light Blue- #2B5096
+light Grey- #BCBEC0
+charcoal- #393839
+gold- #B6A269
+*/
+
+h1 {
+	background-color: #143776;
+	color:#B6A269;
+}
