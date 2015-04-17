@@ -21,11 +21,17 @@ body {
 h1 {
 	background-color: #143776;
 	color:#B6A269;
+	margin: 0;
 }
 
 h2 {
 	background-color: #143776;
 	color:#B6A269;
 	text-align: center;
+	margin
+}
+
+img {
+	width: 100%;
 }
 
