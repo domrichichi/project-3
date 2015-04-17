@@ -35,3 +35,19 @@ img {
 	width: 100%;
 }
 
+.nav {
+    display: none;
+}
+
+.nav-check:checked ~ .nav {
+    display: block;
+}
+
+.nav-check {
+    position: absolute;
+    top: -3em;
+}
+
+.nav-check:checked ~ .nav-label {
+    background-color: grey;
+}
