@@ -14,7 +14,17 @@ charcoal- #393839
 gold- #B6A269
 */
 
+body {
+	margin:0;
+}
+
 h1 {
 	background-color: #143776;
 	color:#B6A269;
+}
+
+h2 {
+	background-color: #143776;
+	color:#B6A269;
+	text-align: center;
 }
