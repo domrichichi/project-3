@@ -106,6 +106,14 @@ img {
 	width: 100%;
 }
 
+li {
+	padding: 2.5em;
+}
+
+nav li:hover {
+background-color: #2B5096;
+}
+
 /*Text*/
 
 p {
@@ -176,9 +184,9 @@ blockquote {
 /*Footer*/
 
 .bottom {
+	background-color: #143776;
 }
 
 .bottomfoot {
 	padding: 1.5em;
-	background-color: #143776;
 }
