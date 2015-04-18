@@ -19,7 +19,6 @@ body {
 }
 
 html {
-	background-color: #BCBEC0;
 }
 
 /*Headers*/
@@ -48,8 +47,12 @@ h2 {
 
 h3 {
 	text-align: center;
+	margin: 0;
 }
 
+div h3 {
+	text-align: center;
+}
 /*Full Images*/
 
 img {
