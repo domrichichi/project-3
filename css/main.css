@@ -22,6 +22,8 @@ html {
 	background-color: #BCBEC0;
 }
 
+/*Headers*/
+
 h1 {
 	background-color: #143776;
 	color:#B6A269;
@@ -46,9 +48,13 @@ h3 {
 	text-align: center;
 }
 
+/*Full Images*/
+
 img {
 	width: 100%;
 }
+
+/*Toggle Menu*/
 
 .nav {
     display: none;
@@ -95,7 +101,20 @@ img {
 	width: 100%;
 }
 
+/*Text*/
+
 p {
 	text-align: center;
 }
 
+/*Food Images*/
+
+.square {
+	display: block;
+}
+
+.foodbox {
+	position: relative;
+	float: left;
+	width: 50%;
+}
