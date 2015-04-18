@@ -36,12 +36,18 @@ header {
 	position: relative;
 }
 
+.head-img {
+	display: inline-block;
+}
+
 h2 {
 	background-color: #143776;
 	color:#B6A269;
 	text-align: center;
 	margin: 0;
 	padding: 10px;
+	display: inline-block;
+	width: 100%;
 }
 
 h3 {
@@ -117,4 +123,9 @@ p {
 	position: relative;
 	float: left;
 	width: 50%;
+}
+
+.foodbox img {
+	width: 100%;
+	display: block;
 }
