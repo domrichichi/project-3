@@ -18,6 +18,10 @@ body {
 	margin:0;
 }
 
+html {
+	background-color: #BCBEC0;
+}
+
 h1 {
 	background-color: #143776;
 	color:#B6A269;
