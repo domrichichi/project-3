@@ -36,10 +36,6 @@ header {
 	position: relative;
 }
 
-.head-img {
-	display: inline-block;
-}
-
 h2 {
 	background-color: #143776;
 	color:#B6A269;
@@ -128,4 +124,47 @@ p {
 .foodbox img {
 	width: 100%;
 	display: block;
+}
+
+/*
+.foodbox a {
+	position: absolute;
+	text-align: center;
+	bottom: 1.5em;
+	left: 20%;
+}
+*/
+
+.food1 {
+	position: absolute;
+	text-align: center;
+	bottom: 1.5em;
+	left: 20%;
+}
+
+.food2 {
+	position: absolute;
+	text-align: center;
+	bottom: 1.5em;
+	left: 20%;
+}
+
+.food3 {
+	position: absolute;
+	text-align: center;
+	bottom: 1.5em;
+	left: 20%;
+}
+
+.food4 {
+	position: absolute;
+	text-align: center;
+	bottom: 1.5em;
+	left: 20%;
+}
+
+/*PRESS*/
+
+blockquote {
+	text-align: center;
 }
