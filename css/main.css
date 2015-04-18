@@ -141,33 +141,44 @@ p {
 .food1 {
 	position: absolute;
 	text-align: center;
-	bottom: 1.5em;
-	left: 20%;
+	top: 10px;
+	left: 43%;
+	color: #B6A269;
 }
 
 .food2 {
 	position: absolute;
 	text-align: center;
-	bottom: 1.5em;
-	left: 20%;
+	top: 10px;
+	left: 40%;
 }
 
 .food3 {
 	position: absolute;
 	text-align: center;
-	bottom: 1.5em;
-	left: 20%;
+	top: 10px;
+	left: 43%;
 }
 
 .food4 {
 	position: absolute;
 	text-align: center;
-	bottom: 1.5em;
-	left: 20%;
+	top: 10px;
+	left: 40%;
 }
 
 /*PRESS*/
 
 blockquote {
 	text-align: center;
+}
+
+/*Footer*/
+
+.bottom {
+}
+
+.bottomfoot {
+	padding: 1.5em;
+	background-color: #143776;
 }
