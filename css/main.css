@@ -107,7 +107,7 @@ img {
 }
 
 li {
-	padding: 2.5em;
+	padding: 1.1em;
 }
 
 nav li:hover {
@@ -159,6 +159,7 @@ p {
 	text-align: center;
 	top: 10px;
 	left: 40%;
+	color: #B6A269;
 }
 
 .food3 {
@@ -166,6 +167,7 @@ p {
 	text-align: center;
 	top: 10px;
 	left: 43%;
+	color: #B6A269;
 }
 
 .food4 {
@@ -173,6 +175,7 @@ p {
 	text-align: center;
 	top: 10px;
 	left: 40%;
+	color: #B6A269;
 }
 
 /*PRESS*/
