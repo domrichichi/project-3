@@ -28,6 +28,8 @@ h1 {
 	color:#B6A269;
 	margin: 0;
 	padding: 10px;
+	font-family: 'Merriweather', serif;
+	font-size: 2.1em;
 }
 
 header {
@@ -43,11 +45,15 @@ h2 {
 	padding: 10px;
 	display: inline-block;
 	width: 100%;
+	font-family: 'Merriweather Sans', sans-serif;
 }
 
 h3 {
 	text-align: center;
-	margin: 0;
+	margin-top: 0.5em;
+	color:#393839;
+	font-family: 'Merriweather', serif;
+	font-size:1em;
 }
 
 div h3 {
@@ -98,7 +104,7 @@ img {
 	width: 40px;
 	position: absolute;
 	right: 7px;
-	bottom: 15px;
+	bottom: 20px;
 }
 
 .nav-label img {
@@ -108,6 +114,8 @@ img {
 
 li {
 	padding: 1.1em;
+	font-family: 'Merriweather Sans', sans-serif;
+	background-color: #143776;
 }
 
 nav li:hover {
@@ -118,6 +126,8 @@ background-color: #2B5096;
 
 p {
 	text-align: center;
+	color:#393839;
+	margin-bottom: 0.5em;
 }
 
 /*Food Images*/
@@ -136,15 +146,6 @@ p {
 	width: 100%;
 	display: block;
 }
-
-/*
-.foodbox a {
-	position: absolute;
-	text-align: center;
-	bottom: 1.5em;
-	left: 20%;
-}
-*/
 
 .food1 {
 	position: absolute;
