@@ -140,7 +140,7 @@ background-color: #2B5096;
 p {
 	text-align: center;
 	color:#393839;
-	font-family:'Merriweather' serif;
+	font-family:'Merriweather', serif;
 }
 
 /*Food Images*/
@@ -218,7 +218,6 @@ blockquote {
     height:80px;
     background-color: #143776;
     background-size: 30px;
-    background-image
   }
 
   a img {
