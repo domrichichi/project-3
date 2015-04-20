@@ -209,6 +209,27 @@ blockquote {
 
 /*Footer*/
 
+.bottom {
+    height:80px;
+    width:460px;
+    background-color: #143776;
+    background-size: 30px;
+  }
+
+  a img {
+  	position: absolute;
+  	width: 80px;
+  	padding-left: 20px;
+  	padding-top: 10px;
+  }
+
+  .arrow img {
+  	position: absolute;
+  	right: 50px;
+  }
+
+
+/*
 .footgraphic1 {
 	position: absolute;
 	right: 20%;
@@ -225,3 +246,4 @@ blockquote {
 	display: block;
 	background-color: #143776;
 }
+*/
